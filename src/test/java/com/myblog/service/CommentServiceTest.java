@@ -139,4 +139,3 @@ class CommentServiceTest {
         verify(commentDao).delete(1L);
     }
 }
-

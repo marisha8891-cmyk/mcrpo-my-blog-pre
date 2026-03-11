@@ -174,4 +174,3 @@ class PostServiceTest {
         verify(postDao).findById(1L);
     }
 }
-
